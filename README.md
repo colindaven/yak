@@ -43,3 +43,9 @@ approaches Q50, both unsampled and erroneous k-mers in short reads may
 interfere with a naive estimator. Yak introduces an empirical model to address
 this issue. Its estimate is less affected by the coverage and the quality of
 short reads.
+
+## Auto generated documentation at deepwiki
+
+* Particularly these notes on output formats are useful
+
+https://deepwiki.com/lh3/yak/7.2-output-record-formats
