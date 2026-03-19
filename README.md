@@ -46,6 +46,4 @@ short reads.
 
 ## Auto generated documentation at deepwiki
 
-* Particularly these notes on output formats are useful
-
-https://deepwiki.com/lh3/yak/7.2-output-record-formats
+Particularly these notes on output formats are useful: https://deepwiki.com/lh3/yak/7.2-output-record-formats
